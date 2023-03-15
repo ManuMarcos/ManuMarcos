@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer engineering student looking for my first experience as a Developer. I am a computer enthusiast
+I'm a computer engineering student looking for my first experience as a Developer. 
 
 - 🌱 I’m currently learning Spring
 - 💼 I worked for a year as a Help Desk at Roemmers
