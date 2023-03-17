@@ -7,4 +7,4 @@ I'm a computer engineering student looking for my first experience as a Develope
 - 💻 I really like Java and Object Oriented Programming
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuMarcos&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuMarcos&hide_progress=true)]
