@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm a computer engineering student and I am currently working as PL/SQL Developer on Extend IT
+I'm a computer engineering student.
 
+- 💼 Currently working as PL/SQL Developer on Extend It
 - 🌱 Learning Spring and React Js
 - 💻 I really like Java and Object Oriented Programming
 
