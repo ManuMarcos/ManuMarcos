@@ -2,7 +2,7 @@
 
 I'm a computer engineering student.
 
-- 💼 Currently working as PL/SQL Developer at Extend It
+- 💼 Currently working as PL/SQL and OIC(Integration) Developer at Extend It
 - 🌱 Learning Spring and React
 - 💻 I really like Java and Object Oriented Programming
 
