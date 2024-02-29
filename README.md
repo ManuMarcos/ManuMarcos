@@ -8,5 +8,6 @@ I'm a computer engineering student.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuMarcos&hide_progress=true)
 
-### :fire: My Stats: [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuMarcos&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuMarcos&theme=dark&background=000000)](https://git.io/streak-stats)
 
