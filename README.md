@@ -2,7 +2,7 @@
 
 I'm a computer engineering student.
 
-- 💼 Currently working as PL/SQL, OIC(Integration) and VisualBuilder Developer at Extend It
+- 💼 Actively seeking a Java Backend Developer position
 - 🌱 Building projects using Spring and React
 - 💻 I really like Java and Object Oriented Programming
 - 🚀 Currently finishing MedPoint Clinic project [Repositorio](https://github.com/ManuMarcos/clinica-backend) and learning Spring Cloud (microservices)
