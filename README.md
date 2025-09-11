@@ -2,9 +2,9 @@
 
 I'm a computer engineering student.
 
-- 💼 Actively seeking a Java Backend Developer position
-- 🌱 Building projects using Spring and React
+- 💼 Java Software Developer
 - 💻 I really like Java and Object Oriented Programming
+- 🌱 Building projects using Spring and React
 
 [Portfolio](https://manumarcos.com.ar)
 
