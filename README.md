@@ -2,7 +2,7 @@
 
 I'm a computer engineering student.
 
-- 💼 Java Software Developer at Lumina Americas
+- 💼 Java Software Developer at Primary
 - 💻 I really like Java and Object Oriented Programming
 - 🌱 Building projects using Spring and React
 
